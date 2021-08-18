@@ -1,5 +1,5 @@
 # italian_notes
-:author: Erik Stenman
+:author: Ernesto Bossi
 :encoding: utf-8
 :lang: ed
 :toc: left
