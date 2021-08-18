@@ -1,4 +1,4 @@
-# italian_notes
+# Notas de italiano
 :author: Ernesto Bossi
 :encoding: utf-8
 :lang: es
@@ -37,5 +37,6 @@ Crawling through the twisted understory...
 
 Hanging from...
 
+== Extras
 
 include::chapters/common_verbs.adoc[]
