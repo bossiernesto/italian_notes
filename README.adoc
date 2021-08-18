@@ -31,11 +31,6 @@ WARNING: Esta pagina aun esta en construccion.
 Learn as though you would never be able to master it; hold it as though you would be in fear of losing it.
 
 
-[verse, Confucius]
-____
-“Learn as though you would never be able to master it; hold it as though you would be in fear of losing it.”
-____
-
 .After landing the cloaked Klingon bird of prey in Golden Gate park:
 [quote, Captain James T. Kirk, Star Trek IV: The Voyage Home]
 Everybody remember where we parked.
