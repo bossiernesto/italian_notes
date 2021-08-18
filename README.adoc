@@ -1,7 +1,7 @@
 # italian_notes
 :author: Ernesto Bossi
 :encoding: utf-8
-:lang: ed
+:lang: es
 :toc: left
 :toclevels: 3
 :experimental:
