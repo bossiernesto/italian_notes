@@ -23,6 +23,8 @@
 
 Estas son algunas notas de gramatica de 1, 2 Anno de italiano
 
+WARNING: Esta pagina aun esta en construccion.
+
 [verse, Confucius]
 ____
 “Learn as though you would never be able to master it; hold it as though you would be in fear of losing it.”
