@@ -36,3 +36,6 @@ Crawling through the twisted understory...
 == Dawn on the Plateau
 
 Hanging from...
+
+
+include::chapters/common_verbs.adoc[]
