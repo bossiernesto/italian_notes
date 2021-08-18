@@ -58,10 +58,12 @@ Todos los artículos determinados en italiano son por lo tanto
 |i
 |gli
 |gli
+|===
+
 
 Las reglas también son válidas si delante del substantivo hay un adjetivo
 
-	- l' uomo (el hombro)
+- l' uomo (el hombro)
  - l' unico uomo (el único hombre)
  - lo stesso uomo (el mismo hombre)
  - gli unici uomini (los únicos hombres)
