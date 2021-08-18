@@ -25,7 +25,7 @@ Ernesto Bossi
 
 Daylight trickles across the cobblestones...
 
-==== 1 Anno
+== 1 Anno
 
 include::chapters/articolo_definido.adoc[]
 
