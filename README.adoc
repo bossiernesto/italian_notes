@@ -30,6 +30,17 @@ ____
 “Learn as though you would never be able to master it; hold it as though you would be in fear of losing it.”
 ____
 
+[verse, Carl Sandburg, Fog]
+____
+The fog comes
+on little cat feet.
+
+It sits looking
+over harbor and city
+on silent haunches
+and then moves on.
+____
+
 == Certain Peril
 
 Daylight trickles across the cobblestones...
