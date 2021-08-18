@@ -17,10 +17,11 @@
 :attribute-missing: warn
 :xrefstyle: short
 
-= Notas de italiano
-Ernesto Bossi
-
 :toc: 
+
+= Intro
+
+Estas son algunas notas de gramatica de 1, 2 Anno de italiano
 
 [verse, Confucius]
 ____
