@@ -35,11 +35,39 @@ Todos los artículos determinados en italiano son por lo tanto
 
 ##### Los artículos	 	 	 
  	 	
-    
-    consonante	vocal	sp / st / ps / gn / z / y / vocal
- 	feminino singular	la	l'	la
- 	masculino singular	il	l'	lo
- 	feminino plural	le	le	le
- 	masculino plural	i	gli	gli
+[cols="1,1,1,1"]
+|===
+| |consonante  | vocal | 	sp / st / ps / gn / z / y / vocal
 
+|feminino singular
+|la
+|l'
+|la
 
+|masculino singular
+|il
+|l'
+|lo
+
+|feminino plural
+|le
+|le
+|le
+
+|masculino plural
+|i
+|gli
+|gli
+
+Las reglas también son válidas si delante del substantivo hay un adjetivo
+
+	- l' uomo (el hombro)
+ - l' unico uomo (el único hombre)
+ - lo stesso uomo (el mismo hombre)
+ - gli unici uomini (los únicos hombres)
+ - gli stessi uomini (los mismos hombres)
+ 
+ Lo misma vale por un sustantivo feminino. Las reglas son igualmente válidas si el artículo se encuentra delante de un adjetivo.
+
+	- la stessa donna (la misma mujer)
+ - le stesse donne (las mismas mujeres)
