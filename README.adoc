@@ -17,25 +17,17 @@
 :attribute-missing: warn
 :xrefstyle: short
 
-= The Intrepid Chronicles
-Kismet Lee; B. Steppenwolf; Pax Draeke
+= Notas de italiano
+Ernesto Bossi
 :toc: 
 
 == Certain Peril
 
 Daylight trickles across the cobblestones...
 
-=== A Recipe for Potion
+==== 1 Anno
 
-We have to harvest the leaves by the light of the teal moons...
-
-==== Searching for Ginseng
-
-Crawling through the twisted understory...
-
-== Dawn on the Plateau
-
-Hanging from...
+include::chapters/articolo_definido.adoc[]
 
 == Extras
 
