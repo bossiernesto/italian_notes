@@ -36,6 +36,11 @@ Daylight trickles across the cobblestones...
 
 include::chapters/articolo_definido.adoc[]
 
+
+== 2 Anno
+
+include::chapters/i_pronomi_indiretti.adoc[]
+
 == Extras
 
 include::chapters/common_verbs.adoc[]
