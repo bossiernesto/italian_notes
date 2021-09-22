@@ -1,0 +1,69 @@
+
+
+
+#### Le differenze tra pronomi diretti e indiretti
+
+- Pronomi diretti -> rispondono alla domanda: chi/che cosa?
+
+Sostituiscono il complemento oggetto o O.D. della frase
+
+- Pronomi indiretti -> risondo alla domanda: a chi?
+
+Sostituiscono il complemento i termine a O.I della frase.
+
+
+Per esempio, i pronomi direti di 3 persona sono:
+
+- Lo/la (singolare)
+- li/le (plurale). In questo caso li e cuando e mixto e le cuando e feminile 
+
+I pronomi indiretti di 3 persona sono: 
+
+- gli/le (singolare)
+- gli per plurale
+
+##### Quadrato tra pronomi diretti e indiretti
+
+[cols="1,1,1"]
+|===
+| | Pronomi direti | Pronomi indiretti 
+
+|io|Mi|Mi
+|tu|ti|ti
+
+|lui|lo|gli
+|lei|la|le
+
+|noi|ci|ci
+|voi|vi|vi
+|loro|li/le|gli
+|===
+
+Esempio:
+
+pronomi diretti: A Letizia e a me interessano i documentari
+pronomi indiretti: Ci interessano i documentari
+
+
+NOTE: A Potential Problem with Different Cookies
+  Il pronome indiretto ha due forme: una forma atona e una forma tonica
+
+
+[cols="1,1,1"]
+|===
+| | Forma atona | Forma tonica
+
+|io|mi|a me 
+|tu|ti|a te
+
+|lui/lei|gli/le/Le|a lui, lei, Lei
+
+|noi|ci|a noi
+|voi|vi|a voi
+|loro|gli|a loro
+|===
+
+
+NOTE: Quadro forma atona/tonica
+  Quando usiamo la forma atona, il pronome indiretto va sempre prima del verbo (pronome + verbo): Gli amici, per il mio compleanno, mi hanno regalato un libro.
+  Solo all'imperativo direto, all'infinito, al gerundio e al participio pasato il pronome segue il verbo.
