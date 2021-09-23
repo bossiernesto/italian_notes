@@ -1,4 +1,29 @@
+# I Pronomi indiretti
 
+Il pronome sustituice sempre un nome di qualcuno o di qualcosa, una persona, un animale o una cosa. Il pronome indiretto sostituisce un nome-oggetto indiretto (indiretto perche e preceduto dalla preposizione `a` e risponde alla domanda a chi? a che cosa?): Telefono a Carla (verbo + nombre-oggtto indiretto) pui tardi. = Le (pronome indiretto + verbo) telefono piu tardi.
+
+NOTE: A Potential Problem with Different Cookies
+  Il pronome indiretto ha due forme: una forma atona e una forma tonica
+
+
+[cols="1,1,1"]
+|===
+| | Forma atona | Forma tonica
+
+|io|mi|a me 
+|tu|ti|a te
+
+|lui/lei|gli/le/Le|a lui, lei, Lei
+
+|noi|ci|a noi
+|voi|vi|a voi
+|loro|gli|a loro
+|===
+
+
+NOTE: Quadro forma atona/tonica
+  Quando usiamo la forma atona, il pronome indiretto va sempre prima del verbo (pronome + verbo): Gli amici, per il mio compleanno, mi hanno regalato un libro.
+  Solo all'imperativo direto, all'infinito, al gerundio e al participio pasato il pronome segue il verbo.
 
 
 #### Le differenze tra pronomi diretti e indiretti
@@ -42,28 +67,7 @@ I pronomi indiretti di 3 persona sono:
 Esempio:
 
 pronomi diretti: A Letizia e a me interessano i documentari
+
 pronomi indiretti: Ci interessano i documentari
 
 
-NOTE: A Potential Problem with Different Cookies
-  Il pronome indiretto ha due forme: una forma atona e una forma tonica
-
-
-[cols="1,1,1"]
-|===
-| | Forma atona | Forma tonica
-
-|io|mi|a me 
-|tu|ti|a te
-
-|lui/lei|gli/le/Le|a lui, lei, Lei
-
-|noi|ci|a noi
-|voi|vi|a voi
-|loro|gli|a loro
-|===
-
-
-NOTE: Quadro forma atona/tonica
-  Quando usiamo la forma atona, il pronome indiretto va sempre prima del verbo (pronome + verbo): Gli amici, per il mio compleanno, mi hanno regalato un libro.
-  Solo all'imperativo direto, all'infinito, al gerundio e al participio pasato il pronome segue il verbo.
