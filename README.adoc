@@ -32,12 +32,11 @@ Learn as though you would never be able to master it; hold it as though you woul
 
 Daylight trickles across the cobblestones...
 
-== 1 Anno
+= 1 Anno
 
 include::chapters/articolo_definido.adoc[]
 
-
-== 2 Anno
+= 2 Anno
 
 include::chapters/i_pronomi_indiretti.adoc[]
 
