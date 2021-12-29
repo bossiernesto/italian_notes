@@ -38,6 +38,8 @@ include::chapters/articolo_definido.adoc[]
 
 = 2 Anno
 
+include::chapters/i_pronomi_diretti.adoc[]
+
 include::chapters/i_pronomi_indiretti.adoc[]
 
 == Extras
