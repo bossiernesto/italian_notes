@@ -1,0 +1,26 @@
+Quando usiamo il passato prossimo in italiano?
+
+Il passato prossimo è utilizzato per esprimere un’azione che è avvenuta nel passato; gli effetti di questa azione continuano nel presente.
+
+Come si forma il passato prossimo?
+
+Il passato prossimo è un tempo composto, formato da due elementi:
+
+AUSILIARE
+(verbo essere o avere al presente indicativo)
++
+PARTICIPIO PASSATO del verbo
+
+Il participio passato dei verbi regolari si forma aggiungendo alla radice:
+
+la desinenza -ATO => per i verbi in -are
+
+esempio: mangiare => mangiato (comer => comido)
+
+la desinenza -UTO => per i verbi in -ere
+
+esempio: vendere => venduto (vender => vendido)
+
+la desinenza -ITO => per i verbi in -ire
+
+esempio: uscire => uscito (salir=> suelto)

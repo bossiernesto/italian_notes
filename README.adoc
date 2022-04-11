@@ -36,6 +36,12 @@ Daylight trickles across the cobblestones...
 
 include::chapters/articolo_definido.adoc[]
 
+include::chapters/particella_ci.adoc[]
+
+include::chapters/verbo_esserci.adoc[]
+
+include::chapters/passato_prossimo.adoc[]
+
 = 2 Anno
 
 include::chapters/i_pronomi_diretti.adoc[]
